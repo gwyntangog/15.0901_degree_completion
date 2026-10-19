@@ -98,10 +98,10 @@ def vi_value(df):
 
 
 def state_totals(df, group_cols=('State',)):
-    """Sum completions by state. Drops the Virgin Islands, since the
-    USA map can't draw it (it gets a dot instead)."""
+    """Sum completions by state. VI is kept here so it counts toward the
+    color max. build_state_frame() leaves VI off the map itself, because
+    the USA map has no VI shape."""
     out = df.groupby(list(group_cols), as_index=False)['Completions'].sum()
-    out = out[out['State'] != TERRITORY_CODE]
     return out.rename(columns={'State': 'State Code'})
 
 
@@ -139,21 +139,6 @@ def color_for_value(value, cmap_name, vmax):
     cmap = matplotlib.colormaps[cmap_name]
     fraction = min(max(value / vmax, 0), 1)
     return matplotlib.colors.to_hex(cmap(fraction))
-
-
-# def make_choropleth(full, title, cmap_name, vmax):
-#     """USA choropleth using the matplotlib colormap, with 0 as the zero color."""
-#     return px.choropleth(
-#         full,
-#         locations='State Code',
-#         locationmode='USA-states',
-#         color='Completions',
-#         scope='usa',
-#         title=title,
-#         color_continuous_scale=plotly_scale_from_mpl(cmap_name),
-#         range_color=(0, vmax),
-#         labels={'Completions': 'Completions'},
-#     )
 
 def label_text_color(fraction, cmap_name):
     """Black text on light colors, white text on dark colors."""
@@ -215,8 +200,12 @@ def safe_name(text):
 
 def render_map(slice_df, title, folder, filename, cmap_name, vmax=None):
     """Build one map from a slice of school_df and save it as a PNG.
-    slice_df is already filtered to the CIP / year / award you want."""
-    full, vmax_used = build_state_frame(state_totals(slice_df), vmax)
+    If vmax is not given, the max includes the Virgin Islands."""
+    totals = state_totals(slice_df)
+    if vmax is None:
+        vmax = shared_max(totals)  # VI included in the max
+
+    full, vmax_used = build_state_frame(totals, vmax)  # VI not drawn on the map
     fig = make_choropleth(full, title, cmap_name, vmax_used)
     fig.update_layout(
         geo=dict(scope='usa'),
@@ -224,8 +213,10 @@ def render_map(slice_df, title, folder, filename, cmap_name, vmax=None):
         height=MAP_HEIGHT,
         font=dict(size=12),
     )
-    dot_color = color_for_value(vi_value(slice_df), cmap_name, vmax_used)
-    add_vi_dot(fig, vi_value(slice_df), dot_color)
+
+    vi = vi_value(slice_df)
+    dot_color = color_for_value(vi, cmap_name, vmax_used)
+    add_vi_dot(fig, vi, dot_color)
 
     path = os.path.join(OUTPUT_ROOT, folder, filename)
     fig.write_image(path, scale=IMAGE_SCALE)  # needs kaleido
