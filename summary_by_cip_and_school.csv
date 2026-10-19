@@ -1,35 +1,37 @@
 UnitID,Institution,State,CIP_Code,CIP_Title,Latest_Year_Completions,Three_Year_Avg_Completions
-126775,Colorado School of Mines,Colorado,14.2101,Mining and Mineral Engineering,48,12.8
-178411,Missouri University of Science and Technology,Missouri,14.2101,Mining and Mineral Engineering,43,9.4
-233921,Virginia Polytechnic Institute and State University,Virginia,14.2101,Mining and Mineral Engineering,29,10.4
-104179,University of Arizona,Arizona,14.2101,Mining and Mineral Engineering,25,6.1
-219347,South Dakota School of Mines and Technology,South Dakota,14.2101,Mining and Mineral Engineering,20,11.0
-157085,University of Kentucky,Kentucky,14.2101,Mining and Mineral Engineering,18,7.1
-171128,Michigan Technological University,Michigan,14.2101,Mining and Mineral Engineering,12,2.8
-187967,New Mexico Institute of Mining and Technology,New Mexico,14.2101,Mining and Mineral Engineering,12,6.1
-238032,West Virginia University,West Virginia,14.2101,Mining and Mineral Engineering,12,8.8
-180416,Montana Technological University,Montana,14.2101,Mining and Mineral Engineering,11,5.3
-214759,Pennsylvania State University-Penn State Fayette- Eberly,Pennsylvania,14.2101,Mining and Mineral Engineering,9,9.0
-230764,University of Utah,Utah,14.2101,Mining and Mineral Engineering,8,3.6
+126775,Colorado School of Mines,Colorado,14.2101,Mining and Mineral Engineering,48,51.3
+178411,Missouri University of Science and Technology,Missouri,14.2101,Mining and Mineral Engineering,43,47.0
+233921,Virginia Polytechnic Institute and State University,Virginia,14.2101,Mining and Mineral Engineering,29,31.3
+104179,University of Arizona,Arizona,14.2101,Mining and Mineral Engineering,25,24.3
+219347,South Dakota School of Mines and Technology,South Dakota,14.2101,Mining and Mineral Engineering,20,22.0
+157085,University of Kentucky,Kentucky,14.2101,Mining and Mineral Engineering,18,21.3
+171128,Michigan Technological University,Michigan,14.2101,Mining and Mineral Engineering,12,8.3
+187967,New Mexico Institute of Mining and Technology,New Mexico,14.2101,Mining and Mineral Engineering,12,14.3
+238032,West Virginia University,West Virginia,14.2101,Mining and Mineral Engineering,12,17.7
+180416,Montana Technological University,Montana,14.2101,Mining and Mineral Engineering,11,10.7
+214759,Pennsylvania State University-Penn State Fayette- Eberly,Pennsylvania,14.2101,Mining and Mineral Engineering,9,3.0
+230764,University of Utah,Utah,14.2101,Mining and Mineral Engineering,8,13.3
 214777,Pennsylvania State University-Main Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,7,5.3
-182290,University of Nevada-Reno,Nevada,14.2101,Mining and Mineral Engineering,5,2.2
-102614,University of Alaska Fairbanks,Alaska,14.2101,Mining and Mineral Engineering,3,2.8
+182290,University of Nevada-Reno,Nevada,14.2101,Mining and Mineral Engineering,5,6.7
+102614,University of Alaska Fairbanks,Alaska,14.2101,Mining and Mineral Engineering,3,5.7
 100751,The University of Alabama,Alabama,14.2101,Mining and Mineral Engineering,0,0.0
 126818,Colorado State University-Fort Collins,Colorado,14.2101,Mining and Mineral Engineering,0,0.0
 149222,Southern Illinois University-Carbondale,Illinois,14.2101,Mining and Mineral Engineering,0,0.0
 190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,0,0.0
 215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,0,0.0
-236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,0,0.0
 230728,Utah State University,Utah,14.2101,Mining and Mineral Engineering,0,0.0
+236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,0,0.0
 145707,Illinois Eastern Community Colleges,Illinois,15.0901,Mining Technology/Technician,57,25.3
 232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,3,4.3
-233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,1,0.5
+233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,1,0.3
 102614,University of Alaska Fairbanks,Alaska,15.0901,Mining Technology/Technician,0,1.7
 104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,0,0.0
 148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,0,0.0
 152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,0,0.0
-455114,College of Western Idaho,Idaho,15.0901,Mining Technology/Technician,0,0.0
 157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,0,0.0
 230728,Utah State University,Utah,15.0901,Mining Technology/Technician,0,0.0
-246017,Central Technology Center,Oklahoma,15.0901,Mining Technology/Technician,0,8.0
+246017,Central Technology Center,Oklahoma,15.0901,Mining Technology/Technician,0,2.7
+443492,Pierpont Community and Technical College,West Virginia,15.0901,Mining Technology/Technician,0,0.0
+455114,College of Western Idaho,Idaho,15.0901,Mining Technology/Technician,0,0.0
+105525,Pima Community College,Arizona,15.0999,"Mining and Petroleum Technologies/Technicians, Other",0,0.0
 243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",0,5.0
