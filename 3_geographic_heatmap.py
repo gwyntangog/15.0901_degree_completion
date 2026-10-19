@@ -5,6 +5,7 @@ import matplotlib
 import matplotlib.colors
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 
 # =============================================================================
 # SETUP
@@ -140,9 +141,31 @@ def color_for_value(value, cmap_name, vmax):
     return matplotlib.colors.to_hex(cmap(fraction))
 
 
+# def make_choropleth(full, title, cmap_name, vmax):
+#     """USA choropleth using the matplotlib colormap, with 0 as the zero color."""
+#     return px.choropleth(
+#         full,
+#         locations='State Code',
+#         locationmode='USA-states',
+#         color='Completions',
+#         scope='usa',
+#         title=title,
+#         color_continuous_scale=plotly_scale_from_mpl(cmap_name),
+#         range_color=(0, vmax),
+#         labels={'Completions': 'Completions'},
+#     )
+
+def label_text_color(fraction, cmap_name):
+    """Black text on light colors, white text on dark colors."""
+    r, g, b, _ = matplotlib.colormaps[cmap_name](fraction)
+    luminance = 0.299 * r + 0.587 * g + 0.114 * b
+    return 'white' if luminance < 0.5 else 'black'
+
+
 def make_choropleth(full, title, cmap_name, vmax):
-    """USA choropleth using the matplotlib colormap, with 0 as the zero color."""
-    return px.choropleth(
+    """USA choropleth with the matplotlib colormap, 0 as the zero color,
+    and a two-letter state label on every state."""
+    fig = px.choropleth(
         full,
         locations='State Code',
         locationmode='USA-states',
@@ -154,6 +177,22 @@ def make_choropleth(full, title, cmap_name, vmax):
         labels={'Completions': 'Completions'},
     )
 
+    # Text color for each state, based on how dark its fill is
+    fractions = (full['Completions'] / vmax).clip(0, 1)
+    text_colors = [label_text_color(f, cmap_name) for f in fractions]
+
+    # Plotly places each label at its state's center, so no coordinates are needed.
+    # hoverinfo='skip' keeps the labels from cluttering the hover tooltips.
+    fig.add_trace(go.Scattergeo(
+        locations=full['State Code'],
+        locationmode='USA-states',
+        text=full['State Code'],
+        mode='text',
+        textfont=dict(size=11, color=text_colors),
+        hoverinfo='skip',
+        showlegend=False,
+    ))
+    return fig
 
 def add_vi_dot(fig, value, dot_color):
     """Dot for the Virgin Islands in the lower right, colored on the map's scale.
