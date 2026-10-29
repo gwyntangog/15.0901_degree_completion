@@ -125,6 +125,8 @@ merged_free["Source"] = merged_free.pop("_merge").map(
     {"both": "both", "left_only": "csv only", "right_only": "xlsx only"}
 )
 
+###
+
 # ---------- Combine and tidy ----------
 out = pd.concat([xlsx_locked, csv_locked, merged_free], ignore_index=True)
 out["Institution"] = out["Institution"].fillna(out["xlsx_institution"])
