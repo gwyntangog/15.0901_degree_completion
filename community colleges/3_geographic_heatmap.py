@@ -68,7 +68,7 @@ STATE_NAME_TO_CODE = {
 # =============================================================================
 # LOAD AND CLEAN DATA
 # =============================================================================
-school_df = pd.read_csv('school_level_clean_2021-2025.csv', dtype={'CIP_Code': str})
+school_df = pd.read_csv('school_level_clean_2021-2025_no_universities.csv', dtype={'CIP_Code': str})
 
 # Convert full state names to two-letter codes (unlisted values are left as-is)
 school_df['State'] = school_df['State'].str.strip().replace(STATE_NAME_TO_CODE)

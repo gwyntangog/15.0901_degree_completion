@@ -8,10 +8,10 @@ import seaborn as sns
 sns.set_style("whitegrid")
 
 # Padded national data (one row per Year / CIP / Award Level, zeros filled in)
-master_df = pd.read_csv('master_all_CIPs_2021-2025.csv', dtype={'CIP_Code': str})
+master_df = pd.read_csv('master_all_CIPs_2021-2025_no_universities.csv', dtype={'CIP_Code': str})
 
 # School-level data (has UnitID and Institution, used for the top schools plot)
-school_df = pd.read_csv('school_level_clean_2021-2025.csv', dtype={'CIP_Code': str})
+school_df = pd.read_csv('school_level_clean_2021-2025_no_universities.csv', dtype={'CIP_Code': str})
 
 all_years = sorted(master_df['Year'].unique())
 

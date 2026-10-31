@@ -20,7 +20,7 @@ FOLDERS = {
 
 sns.set_style("whitegrid")
 
-master_df = pd.read_csv('master_all_CIPs_2021-2025.csv', dtype={'CIP_Code': str})
+master_df = pd.read_csv('master_all_CIPs_2021-2025_no_universities.csv', dtype={'CIP_Code': str})
 
 all_cips = sorted(master_df['CIP_Code'].unique())
 all_awards = sorted(master_df['Award_Level'].dropna().unique())
