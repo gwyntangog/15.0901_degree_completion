@@ -35,6 +35,14 @@ is_uni = pd.Series([k in uni_keys for k in keys], index=csv.index)
 removed = csv.loc[is_uni, ["Institution", "State"]].drop_duplicates()
 kept = csv.loc[~is_uni]
 
+# Drop institutions with "university" in their name (case-insensitive)
+mask = kept["Institution"].str.contains("university", case=False, na=False)
+
+print("Removed institutions:")
+print(kept.loc[mask, "Institution"].drop_duplicates().to_string(index=False))
+
+kept = kept.loc[~mask].copy()
+
 kept.to_csv(OUT_PATH, index=False)
 
 # 4. Check
