@@ -1,0 +1,71 @@
+Year,UnitID,Institution,State,CIP_Code,CIP_Title,Award_Level,Completions
+2021,104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,Associate's degree,0
+2021,105525,Pima Community College,Arizona,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,0
+2021,148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2021,152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,Associate's degree,0
+2021,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Associate's degree,0
+2021,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,0
+2021,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2021,215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2021,232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,1
+2021,233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,Associate's degree,0
+2021,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2021,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Master's degree,0
+2021,243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,3
+2021,246017,Central Technology Center,Oklahoma,15.0901,Mining Technology/Technician,Certificates of at least 1 but less than 2 years,7
+2021,443492,Pierpont Community and Technical College,West Virginia,15.0901,Mining Technology/Technician,Associate's degree,0
+2022,104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,Associate's degree,0
+2022,148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2022,152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,Associate's degree,0
+2022,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Associate's degree,0
+2022,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,0
+2022,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2022,190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,Master's degree,0
+2022,215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2022,232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,4
+2022,233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,Associate's degree,0
+2022,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2022,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Master's degree,0
+2022,243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,3
+2022,246017,Central Technology Center,Oklahoma,15.0901,Mining Technology/Technician,Certificates of at least 1 but less than 2 years,2
+2023,104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,Associate's degree,0
+2023,148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2023,152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,Associate's degree,0
+2023,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Associate's degree,0
+2023,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,0
+2023,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2023,190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,Master's degree,0
+2023,215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2023,232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,5
+2023,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2023,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Master's degree,0
+2023,243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,10
+2023,246017,Central Technology Center,Oklahoma,15.0901,Mining Technology/Technician,Certificates of at least 1 but less than 2 years,8
+2024,104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,Associate's degree,0
+2024,145707,Illinois Eastern Community Colleges,Illinois,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,19
+2024,148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2024,152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,Associate's degree,0
+2024,157304,Madisonville Community College,Kentucky,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,0
+2024,190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,Master's degree,0
+2024,215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2024,232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,5
+2024,233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,Associate's degree,0
+2024,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2024,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Master's degree,0
+2024,243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,5
+2025,104577,Eastern Arizona College,Arizona,15.0901,Mining Technology/Technician,Associate's degree,0
+2025,126818,Colorado State University-Fort Collins,Colorado,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2025,145707,Illinois Eastern Community Colleges,Illinois,15.0901,Mining Technology/Technician,Associate's degree,1
+2025,145707,Illinois Eastern Community Colleges,Illinois,15.0901,Mining Technology/Technician,Certificates of less than 12 weeks,56
+2025,148256,Rend Lake College,Illinois,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,0
+2025,152637,Vincennes University,Indiana,15.0901,Mining Technology/Technician,Associate's degree,0
+2025,190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2025,190150,Columbia University in the City of New York,New York,14.2101,Mining and Mineral Engineering,Master's degree,0
+2025,214759,Pennsylvania State University-Penn State Fayette- Eberly,Pennsylvania,14.2101,Mining and Mineral Engineering,Associate's degree,9
+2025,215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,14.2101,Mining and Mineral Engineering,Postbaccalaureate certificate,0
+2025,232788,Mountain Empire Community College,Virginia,15.0901,Mining Technology/Technician,Certificates of at least 12 weeks but less than 1 year,3
+2025,233648,Southwest Virginia Community College,Virginia,15.0901,Mining Technology/Technician,Associate's degree,1
+2025,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Bachelor's degree,0
+2025,236948,University of Washington-Seattle Campus,Washington,14.2101,Mining and Mineral Engineering,Master's degree,0
+2025,243665,University of the Virgin Islands,Virgin Islands,15.0999,"Mining and Petroleum Technologies/Technicians, Other",Associate's degree,0
+2025,455114,College of Western Idaho,Idaho,15.0901,Mining Technology/Technician,Associate's degree,0
