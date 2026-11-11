@@ -1,25 +1,25 @@
 Year,CIP_Code,CIP_Title,Completions
-2019,03.0101,"Natural Resources/Conservation, General",406
-2020,03.0101,"Natural Resources/Conservation, General",320
-2021,03.0101,"Natural Resources/Conservation, General",339
-2022,03.0101,"Natural Resources/Conservation, General",398
-2023,03.0101,"Natural Resources/Conservation, General",334
-2024,03.0101,"Natural Resources/Conservation, General",319
-2025,03.0101,"Natural Resources/Conservation, General",371
-2019,03.0104,Environmental Science,244
-2020,03.0104,Environmental Science,305
-2021,03.0104,Environmental Science,271
-2022,03.0104,Environmental Science,294
-2023,03.0104,Environmental Science,337
-2024,03.0104,Environmental Science,348
-2025,03.0104,Environmental Science,372
-2019,14.0701,Chemical Engineering,22
-2020,14.0701,Chemical Engineering,18
-2021,14.0701,Chemical Engineering,22
-2022,14.0701,Chemical Engineering,17
-2023,14.0701,Chemical Engineering,7
-2024,14.0701,Chemical Engineering,8
-2025,14.0701,Chemical Engineering,4
+2019,03.0101,"Natural Resources/Conservation, General",446
+2020,03.0101,"Natural Resources/Conservation, General",351
+2021,03.0101,"Natural Resources/Conservation, General",366
+2022,03.0101,"Natural Resources/Conservation, General",442
+2023,03.0101,"Natural Resources/Conservation, General",415
+2024,03.0101,"Natural Resources/Conservation, General",409
+2025,03.0101,"Natural Resources/Conservation, General",555
+2019,03.0104,Environmental Science,348
+2020,03.0104,Environmental Science,434
+2021,03.0104,Environmental Science,394
+2022,03.0104,Environmental Science,422
+2023,03.0104,Environmental Science,475
+2024,03.0104,Environmental Science,527
+2025,03.0104,Environmental Science,522
+2019,14.0701,Chemical Engineering,37
+2020,14.0701,Chemical Engineering,27
+2021,14.0701,Chemical Engineering,32
+2022,14.0701,Chemical Engineering,27
+2023,14.0701,Chemical Engineering,17
+2024,14.0701,Chemical Engineering,37
+2025,14.0701,Chemical Engineering,30
 2019,14.0702,Chemical and Biomolecular Engineering,4
 2020,14.0702,Chemical and Biomolecular Engineering,4
 2021,14.0702,Chemical and Biomolecular Engineering,5
@@ -27,20 +27,20 @@ Year,CIP_Code,CIP_Title,Completions
 2023,14.0702,Chemical and Biomolecular Engineering,5
 2024,14.0702,Chemical and Biomolecular Engineering,2
 2025,14.0702,Chemical and Biomolecular Engineering,4
-2019,14.1001,Electrical and Electronics Engineering,154
-2020,14.1001,Electrical and Electronics Engineering,149
-2021,14.1001,Electrical and Electronics Engineering,157
-2022,14.1001,Electrical and Electronics Engineering,146
-2023,14.1001,Electrical and Electronics Engineering,81
-2024,14.1001,Electrical and Electronics Engineering,102
-2025,14.1001,Electrical and Electronics Engineering,93
+2019,14.1001,Electrical and Electronics Engineering,213
+2020,14.1001,Electrical and Electronics Engineering,199
+2021,14.1001,Electrical and Electronics Engineering,222
+2022,14.1001,Electrical and Electronics Engineering,202
+2023,14.1001,Electrical and Electronics Engineering,165
+2024,14.1001,Electrical and Electronics Engineering,201
+2025,14.1001,Electrical and Electronics Engineering,186
 2019,14.1801,Materials Engineering,19
 2020,14.1801,Materials Engineering,15
 2021,14.1801,Materials Engineering,4
-2022,14.1801,Materials Engineering,3
-2023,14.1801,Materials Engineering,3
-2024,14.1801,Materials Engineering,2
-2025,14.1801,Materials Engineering,2
+2022,14.1801,Materials Engineering,14
+2023,14.1801,Materials Engineering,18
+2024,14.1801,Materials Engineering,9
+2025,14.1801,Materials Engineering,11
 2019,14.2001,Metallurgical Engineering,0
 2020,14.2001,Metallurgical Engineering,0
 2021,14.2001,Metallurgical Engineering,0
@@ -55,104 +55,104 @@ Year,CIP_Code,CIP_Title,Completions
 2023,14.2101,Mining and Mineral Engineering,0
 2024,14.2101,Mining and Mineral Engineering,0
 2025,14.2101,Mining and Mineral Engineering,0
-2019,14.3501,Industrial Engineering,52
-2020,14.3501,Industrial Engineering,61
-2021,14.3501,Industrial Engineering,21
-2022,14.3501,Industrial Engineering,18
-2023,14.3501,Industrial Engineering,39
-2024,14.3501,Industrial Engineering,22
+2019,14.3501,Industrial Engineering,57
+2020,14.3501,Industrial Engineering,66
+2021,14.3501,Industrial Engineering,25
+2022,14.3501,Industrial Engineering,23
+2023,14.3501,Industrial Engineering,43
+2024,14.3501,Industrial Engineering,27
 2025,14.3501,Industrial Engineering,13
 2019,14.3901,Geological/Geophysical Engineering,0
-2020,14.3901,Geological/Geophysical Engineering,0
-2021,14.3901,Geological/Geophysical Engineering,0
+2020,14.3901,Geological/Geophysical Engineering,2
+2021,14.3901,Geological/Geophysical Engineering,1
 2022,14.3901,Geological/Geophysical Engineering,0
 2023,14.3901,Geological/Geophysical Engineering,0
-2024,14.3901,Geological/Geophysical Engineering,0
-2025,14.3901,Geological/Geophysical Engineering,0
-2019,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4387
-2020,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3506
-2021,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3497
-2022,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3420
-2023,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3252
-2024,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3177
-2025,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",3252
-2019,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1462
-2020,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1437
-2021,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1502
-2022,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1359
-2023,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1352
-2024,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1213
-2025,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1348
-2019,15.0404,Instrumentation Technology/Technician,2127
-2020,15.0404,Instrumentation Technology/Technician,1918
-2021,15.0404,Instrumentation Technology/Technician,1981
-2022,15.0404,Instrumentation Technology/Technician,1888
-2023,15.0404,Instrumentation Technology/Technician,1816
-2024,15.0404,Instrumentation Technology/Technician,1942
-2025,15.0404,Instrumentation Technology/Technician,2086
+2024,14.3901,Geological/Geophysical Engineering,1
+2025,14.3901,Geological/Geophysical Engineering,1
+2019,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4569
+2020,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4308
+2021,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4249
+2022,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4139
+2023,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4064
+2024,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4159
+2025,15.0303,"Electrical, Electronic, and Communications Engineering Technology/Technician",4379
+2019,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1645
+2020,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1708
+2021,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1694
+2022,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1579
+2023,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1642
+2024,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1850
+2025,15.0403,Electromechanical/Electromechanical Engineering Technology/Technician,1883
+2019,15.0404,Instrumentation Technology/Technician,2281
+2020,15.0404,Instrumentation Technology/Technician,2226
+2021,15.0404,Instrumentation Technology/Technician,2271
+2022,15.0404,Instrumentation Technology/Technician,2211
+2023,15.0404,Instrumentation Technology/Technician,2162
+2024,15.0404,Instrumentation Technology/Technician,2362
+2025,15.0404,Instrumentation Technology/Technician,2691
 2019,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",0
-2020,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",214
-2021,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",432
-2022,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",378
-2023,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",430
-2024,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",455
-2025,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",538
-2019,15.0508,Hazardous Materials Management and Waste Technology/Technician,138
-2020,15.0508,Hazardous Materials Management and Waste Technology/Technician,108
-2021,15.0508,Hazardous Materials Management and Waste Technology/Technician,94
-2022,15.0508,Hazardous Materials Management and Waste Technology/Technician,92
-2023,15.0508,Hazardous Materials Management and Waste Technology/Technician,102
-2024,15.0508,Hazardous Materials Management and Waste Technology/Technician,111
-2025,15.0508,Hazardous Materials Management and Waste Technology/Technician,72
-2019,15.0611,Metallurgical Technology/Technician,55
-2020,15.0611,Metallurgical Technology/Technician,72
-2021,15.0611,Metallurgical Technology/Technician,86
+2020,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",215
+2021,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",434
+2022,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",385
+2023,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",445
+2024,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",496
+2025,15.0407,"Mechatronics, Robotics, and Automation Engineering Technology/Technician",567
+2019,15.0508,Hazardous Materials Management and Waste Technology/Technician,180
+2020,15.0508,Hazardous Materials Management and Waste Technology/Technician,124
+2021,15.0508,Hazardous Materials Management and Waste Technology/Technician,104
+2022,15.0508,Hazardous Materials Management and Waste Technology/Technician,123
+2023,15.0508,Hazardous Materials Management and Waste Technology/Technician,121
+2024,15.0508,Hazardous Materials Management and Waste Technology/Technician,129
+2025,15.0508,Hazardous Materials Management and Waste Technology/Technician,118
+2019,15.0611,Metallurgical Technology/Technician,60
+2020,15.0611,Metallurgical Technology/Technician,74
+2021,15.0611,Metallurgical Technology/Technician,87
 2022,15.0611,Metallurgical Technology/Technician,45
-2023,15.0611,Metallurgical Technology/Technician,66
-2024,15.0611,Metallurgical Technology/Technician,35
-2025,15.0611,Metallurgical Technology/Technician,69
-2019,15.0612,Industrial Technology/Technician,1968
-2020,15.0612,Industrial Technology/Technician,1357
-2021,15.0612,Industrial Technology/Technician,1246
-2022,15.0612,Industrial Technology/Technician,1148
-2023,15.0612,Industrial Technology/Technician,1117
-2024,15.0612,Industrial Technology/Technician,1118
-2025,15.0612,Industrial Technology/Technician,1337
-2019,15.0613,Manufacturing Engineering Technology/Technician,3493
-2020,15.0613,Manufacturing Engineering Technology/Technician,3265
-2021,15.0613,Manufacturing Engineering Technology/Technician,3175
-2022,15.0613,Manufacturing Engineering Technology/Technician,2834
-2023,15.0613,Manufacturing Engineering Technology/Technician,2920
-2024,15.0613,Manufacturing Engineering Technology/Technician,2759
-2025,15.0613,Manufacturing Engineering Technology/Technician,3269
-2019,15.0614,Welding Engineering Technology/Technician,144
-2020,15.0614,Welding Engineering Technology/Technician,144
+2023,15.0611,Metallurgical Technology/Technician,75
+2024,15.0611,Metallurgical Technology/Technician,41
+2025,15.0611,Metallurgical Technology/Technician,82
+2019,15.0612,Industrial Technology/Technician,2804
+2020,15.0612,Industrial Technology/Technician,2467
+2021,15.0612,Industrial Technology/Technician,2403
+2022,15.0612,Industrial Technology/Technician,2236
+2023,15.0612,Industrial Technology/Technician,1918
+2024,15.0612,Industrial Technology/Technician,1935
+2025,15.0612,Industrial Technology/Technician,2234
+2019,15.0613,Manufacturing Engineering Technology/Technician,3777
+2020,15.0613,Manufacturing Engineering Technology/Technician,3596
+2021,15.0613,Manufacturing Engineering Technology/Technician,3477
+2022,15.0613,Manufacturing Engineering Technology/Technician,3177
+2023,15.0613,Manufacturing Engineering Technology/Technician,3425
+2024,15.0613,Manufacturing Engineering Technology/Technician,3264
+2025,15.0613,Manufacturing Engineering Technology/Technician,3947
+2019,15.0614,Welding Engineering Technology/Technician,139
+2020,15.0614,Welding Engineering Technology/Technician,140
 2021,15.0614,Welding Engineering Technology/Technician,138
-2022,15.0614,Welding Engineering Technology/Technician,180
-2023,15.0614,Welding Engineering Technology/Technician,197
-2024,15.0614,Welding Engineering Technology/Technician,466
-2025,15.0614,Welding Engineering Technology/Technician,102
+2022,15.0614,Welding Engineering Technology/Technician,192
+2023,15.0614,Welding Engineering Technology/Technician,212
+2024,15.0614,Welding Engineering Technology/Technician,483
+2025,15.0614,Welding Engineering Technology/Technician,268
 2019,15.0616,Semiconductor Manufacturing Technology/Technician,5
 2020,15.0616,Semiconductor Manufacturing Technology/Technician,1
 2021,15.0616,Semiconductor Manufacturing Technology/Technician,2
 2022,15.0616,Semiconductor Manufacturing Technology/Technician,0
 2023,15.0616,Semiconductor Manufacturing Technology/Technician,2
 2024,15.0616,Semiconductor Manufacturing Technology/Technician,13
-2025,15.0616,Semiconductor Manufacturing Technology/Technician,2
-2019,15.0701,Occupational Safety and Health Technology/Technician,478
-2020,15.0701,Occupational Safety and Health Technology/Technician,391
-2021,15.0701,Occupational Safety and Health Technology/Technician,298
-2022,15.0701,Occupational Safety and Health Technology/Technician,353
-2023,15.0701,Occupational Safety and Health Technology/Technician,233
-2024,15.0701,Occupational Safety and Health Technology/Technician,271
-2025,15.0701,Occupational Safety and Health Technology/Technician,255
-2019,15.0702,Quality Control Technology/Technician,128
-2020,15.0702,Quality Control Technology/Technician,109
-2021,15.0702,Quality Control Technology/Technician,142
-2022,15.0702,Quality Control Technology/Technician,122
-2023,15.0702,Quality Control Technology/Technician,109
-2024,15.0702,Quality Control Technology/Technician,119
-2025,15.0702,Quality Control Technology/Technician,171
+2025,15.0616,Semiconductor Manufacturing Technology/Technician,44
+2019,15.0701,Occupational Safety and Health Technology/Technician,532
+2020,15.0701,Occupational Safety and Health Technology/Technician,535
+2021,15.0701,Occupational Safety and Health Technology/Technician,462
+2022,15.0701,Occupational Safety and Health Technology/Technician,503
+2023,15.0701,Occupational Safety and Health Technology/Technician,349
+2024,15.0701,Occupational Safety and Health Technology/Technician,381
+2025,15.0701,Occupational Safety and Health Technology/Technician,413
+2019,15.0702,Quality Control Technology/Technician,144
+2020,15.0702,Quality Control Technology/Technician,120
+2021,15.0702,Quality Control Technology/Technician,149
+2022,15.0702,Quality Control Technology/Technician,176
+2023,15.0702,Quality Control Technology/Technician,159
+2024,15.0702,Quality Control Technology/Technician,182
+2025,15.0702,Quality Control Technology/Technician,220
 2019,15.0705,Process Safety Technology/Technician,0
 2020,15.0705,Process Safety Technology/Technician,0
 2021,15.0705,Process Safety Technology/Technician,0
@@ -160,13 +160,13 @@ Year,CIP_Code,CIP_Title,Completions
 2023,15.0705,Process Safety Technology/Technician,0
 2024,15.0705,Process Safety Technology/Technician,0
 2025,15.0705,Process Safety Technology/Technician,0
-2019,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1710
-2020,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1186
-2021,15.0805,Mechanical/Mechanical Engineering Technology/Technician,969
-2022,15.0805,Mechanical/Mechanical Engineering Technology/Technician,990
-2023,15.0805,Mechanical/Mechanical Engineering Technology/Technician,871
-2024,15.0805,Mechanical/Mechanical Engineering Technology/Technician,885
-2025,15.0805,Mechanical/Mechanical Engineering Technology/Technician,942
+2019,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1784
+2020,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1317
+2021,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1109
+2022,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1122
+2023,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1004
+2024,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1079
+2025,15.0805,Mechanical/Mechanical Engineering Technology/Technician,1190
 2019,15.0901,Mining Technology/Technician,92
 2020,15.0901,Mining Technology/Technician,14
 2021,15.0901,Mining Technology/Technician,1
@@ -178,23 +178,23 @@ Year,CIP_Code,CIP_Title,Completions
 2020,15.1601,Nanotechnology,23
 2021,15.1601,Nanotechnology,9
 2022,15.1601,Nanotechnology,8
-2023,15.1601,Nanotechnology,6
-2024,15.1601,Nanotechnology,3
-2025,15.1601,Nanotechnology,3
-2019,40.0501,"Chemistry, General",1067
-2020,40.0501,"Chemistry, General",1184
-2021,40.0501,"Chemistry, General",1022
-2022,40.0501,"Chemistry, General",1021
-2023,40.0501,"Chemistry, General",919
-2024,40.0501,"Chemistry, General",844
-2025,40.0501,"Chemistry, General",842
-2019,40.0601,"Geology/Earth Science, General",116
-2020,40.0601,"Geology/Earth Science, General",109
-2021,40.0601,"Geology/Earth Science, General",101
-2022,40.0601,"Geology/Earth Science, General",110
-2023,40.0601,"Geology/Earth Science, General",95
-2024,40.0601,"Geology/Earth Science, General",100
-2025,40.0601,"Geology/Earth Science, General",94
+2023,15.1601,Nanotechnology,13
+2024,15.1601,Nanotechnology,10
+2025,15.1601,Nanotechnology,6
+2019,40.0501,"Chemistry, General",1259
+2020,40.0501,"Chemistry, General",1355
+2021,40.0501,"Chemistry, General",1212
+2022,40.0501,"Chemistry, General",1202
+2023,40.0501,"Chemistry, General",1114
+2024,40.0501,"Chemistry, General",1058
+2025,40.0501,"Chemistry, General",1151
+2019,40.0601,"Geology/Earth Science, General",132
+2020,40.0601,"Geology/Earth Science, General",124
+2021,40.0601,"Geology/Earth Science, General",118
+2022,40.0601,"Geology/Earth Science, General",131
+2023,40.0601,"Geology/Earth Science, General",119
+2024,40.0601,"Geology/Earth Science, General",133
+2025,40.0601,"Geology/Earth Science, General",151
 2019,40.0602,Geochemistry,0
 2020,40.0602,Geochemistry,0
 2021,40.0602,Geochemistry,0
@@ -207,15 +207,15 @@ Year,CIP_Code,CIP_Title,Completions
 2021,41.0000,"Science Technologies/Technicians, General",24
 2022,41.0000,"Science Technologies/Technicians, General",31
 2023,41.0000,"Science Technologies/Technicians, General",29
-2024,41.0000,"Science Technologies/Technicians, General",16
+2024,41.0000,"Science Technologies/Technicians, General",17
 2025,41.0000,"Science Technologies/Technicians, General",19
-2019,41.0301,Chemical Technology/Technician,1721
-2020,41.0301,Chemical Technology/Technician,1319
-2021,41.0301,Chemical Technology/Technician,994
-2022,41.0301,Chemical Technology/Technician,1001
-2023,41.0301,Chemical Technology/Technician,851
-2024,41.0301,Chemical Technology/Technician,1005
-2025,41.0301,Chemical Technology/Technician,925
+2019,41.0301,Chemical Technology/Technician,2181
+2020,41.0301,Chemical Technology/Technician,2227
+2021,41.0301,Chemical Technology/Technician,2063
+2022,41.0301,Chemical Technology/Technician,2041
+2023,41.0301,Chemical Technology/Technician,1997
+2024,41.0301,Chemical Technology/Technician,2160
+2025,41.0301,Chemical Technology/Technician,2026
 2019,41.0303,Chemical Process Technology,64
 2020,41.0303,Chemical Process Technology,58
 2021,41.0303,Chemical Process Technology,98
@@ -223,66 +223,66 @@ Year,CIP_Code,CIP_Title,Completions
 2023,41.0303,Chemical Process Technology,65
 2024,41.0303,Chemical Process Technology,70
 2025,41.0303,Chemical Process Technology,73
-2019,46.0302,Electrician,11104
-2020,46.0302,Electrician,11338
-2021,46.0302,Electrician,10936
-2022,46.0302,Electrician,11577
-2023,46.0302,Electrician,13105
-2024,46.0302,Electrician,13526
-2025,46.0302,Electrician,15285
-2019,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1400
-2020,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1189
-2021,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",984
-2022,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1118
-2023,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1072
-2024,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1011
-2025,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1192
-2019,47.0105,Industrial Electronics Technology/Technician,2338
-2020,47.0105,Industrial Electronics Technology/Technician,2075
-2021,47.0105,Industrial Electronics Technology/Technician,1902
-2022,47.0105,Industrial Electronics Technology/Technician,2172
-2023,47.0105,Industrial Electronics Technology/Technician,2440
-2024,47.0105,Industrial Electronics Technology/Technician,2331
-2025,47.0105,Industrial Electronics Technology/Technician,2693
-2019,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",10055
-2020,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9348
-2021,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",8481
-2022,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9582
-2023,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9728
-2024,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",10438
-2025,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",11711
-2019,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6547
-2020,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6608
-2021,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6656
-2022,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6215
-2023,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6268
-2024,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6610
-2025,47.0303,Industrial Mechanics and Maintenance Technology/Technician,7483
-2019,47.0604,Automobile/Automotive Mechanics Technology/Technician,20845
-2020,47.0604,Automobile/Automotive Mechanics Technology/Technician,17825
-2021,47.0604,Automobile/Automotive Mechanics Technology/Technician,15522
-2022,47.0604,Automobile/Automotive Mechanics Technology/Technician,17470
-2023,47.0604,Automobile/Automotive Mechanics Technology/Technician,18746
-2024,47.0604,Automobile/Automotive Mechanics Technology/Technician,20450
-2025,47.0604,Automobile/Automotive Mechanics Technology/Technician,21161
-2019,47.0605,Diesel Mechanics Technology/Technician,5308
-2020,47.0605,Diesel Mechanics Technology/Technician,4753
-2021,47.0605,Diesel Mechanics Technology/Technician,4479
-2022,47.0605,Diesel Mechanics Technology/Technician,4578
-2023,47.0605,Diesel Mechanics Technology/Technician,4807
-2024,47.0605,Diesel Mechanics Technology/Technician,5102
-2025,47.0605,Diesel Mechanics Technology/Technician,5186
-2019,48.0508,Welding Technology/Welder,30467
-2020,48.0508,Welding Technology/Welder,25821
-2021,48.0508,Welding Technology/Welder,25360
-2022,48.0508,Welding Technology/Welder,27296
-2023,48.0508,Welding Technology/Welder,29905
-2024,48.0508,Welding Technology/Welder,33499
-2025,48.0508,Welding Technology/Welder,36897
-2019,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,897
-2020,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,831
-2021,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,745
-2022,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,731
-2023,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,670
-2024,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,814
-2025,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,705
+2019,46.0302,Electrician,10591
+2020,46.0302,Electrician,11030
+2021,46.0302,Electrician,10707
+2022,46.0302,Electrician,11562
+2023,46.0302,Electrician,13096
+2024,46.0302,Electrician,13797
+2025,46.0302,Electrician,15340
+2019,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1589
+2020,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1384
+2021,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1266
+2022,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1433
+2023,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1401
+2024,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1590
+2025,47.0101,"Electrical/Electronics Equipment Installation and Repair Technology/Technician, General",1819
+2019,47.0105,Industrial Electronics Technology/Technician,2409
+2020,47.0105,Industrial Electronics Technology/Technician,2138
+2021,47.0105,Industrial Electronics Technology/Technician,1886
+2022,47.0105,Industrial Electronics Technology/Technician,2166
+2023,47.0105,Industrial Electronics Technology/Technician,2468
+2024,47.0105,Industrial Electronics Technology/Technician,2595
+2025,47.0105,Industrial Electronics Technology/Technician,2975
+2019,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9363
+2020,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9183
+2021,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",8776
+2022,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",9889
+2023,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",10293
+2024,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",11511
+2025,47.0201,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician",12773
+2019,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6047
+2020,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6149
+2021,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6278
+2022,47.0303,Industrial Mechanics and Maintenance Technology/Technician,5912
+2023,47.0303,Industrial Mechanics and Maintenance Technology/Technician,5954
+2024,47.0303,Industrial Mechanics and Maintenance Technology/Technician,6337
+2025,47.0303,Industrial Mechanics and Maintenance Technology/Technician,7124
+2019,47.0604,Automobile/Automotive Mechanics Technology/Technician,22391
+2020,47.0604,Automobile/Automotive Mechanics Technology/Technician,20868
+2021,47.0604,Automobile/Automotive Mechanics Technology/Technician,17159
+2022,47.0604,Automobile/Automotive Mechanics Technology/Technician,20124
+2023,47.0604,Automobile/Automotive Mechanics Technology/Technician,22345
+2024,47.0604,Automobile/Automotive Mechanics Technology/Technician,26020
+2025,47.0604,Automobile/Automotive Mechanics Technology/Technician,29659
+2019,47.0605,Diesel Mechanics Technology/Technician,5574
+2020,47.0605,Diesel Mechanics Technology/Technician,5210
+2021,47.0605,Diesel Mechanics Technology/Technician,4912
+2022,47.0605,Diesel Mechanics Technology/Technician,5135
+2023,47.0605,Diesel Mechanics Technology/Technician,5468
+2024,47.0605,Diesel Mechanics Technology/Technician,6113
+2025,47.0605,Diesel Mechanics Technology/Technician,6501
+2019,48.0508,Welding Technology/Welder,31692
+2020,48.0508,Welding Technology/Welder,28149
+2021,48.0508,Welding Technology/Welder,27945
+2022,48.0508,Welding Technology/Welder,30088
+2023,48.0508,Welding Technology/Welder,33819
+2024,48.0508,Welding Technology/Welder,39603
+2025,48.0508,Welding Technology/Welder,43780
+2019,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,867
+2020,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,813
+2021,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,732
+2022,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,727
+2023,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,660
+2024,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,804
+2025,49.0202,Construction/Heavy Equipment/Earthmoving Equipment Operation,714

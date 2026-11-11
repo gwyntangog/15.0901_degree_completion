@@ -1,0 +1,393 @@
+UnitID,Institution,State,Latest_year,Latest_sector_code,Latest_sector,Latest_C21BASIC,Rules,Years_matched,In_41_CIP_completions
+102711,Alaska Vocational Technical Center,AK,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+101471,J F Ingram State Technical College,AL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+106351,Arkansas Technical School,AR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical school,"2021, 2022, 2023, 2024, 2025",No
+106829,Crowley's Ridge Technical Institute,AR,2019,7,"Public, less-than-2-year",,Name: technical institute,2019,No
+490744,Northern Technical College,AR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+107488,Northwest Technical Institute,AR,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+441210,East Valley Institute of Technology,AZ,2025,7,"Public, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+105659,Refrigeration School Inc,AZ,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+488077,Sonoran Desert Institute,AZ,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+106041,Universal Technical Institute of Arizona Inc,AZ,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+105215,Universal Technical Institute-Phoenix,AZ,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+109721,Associated Technical College-Los Angeles,CA,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+109730,Associated Technical College-San Diego,CA,2024,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024",No
+110194,Brownson Technical School,CA,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+490285,California Institute of Arts & Technology,CA,2025,3,"Private for-profit, 4-year or above",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+496186,California Institute of Arts & Technology-National City,CA,2024,3,"Private for-profit, 4-year or above",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024",No
+488192,DeHart Technical School,CA,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+431141,Institute of Technology,CA,2025,6,"Private for-profit, 2-year",8,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+476911,SAE Institute of Technology-Los Angeles,CA,2019,9,"Private for-profit, less-than-2-year",,Institute of technology at a 2-year or shorter sector,2019,No
+422020,San Joaquin Valley College-Trades Education Center,CA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+413680,Spartan College of Aeronautics & Technology,CA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+438504,Universal Technical Institute of California Inc,CA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+448433,Universal Technical Institute of Northern California Inc,CA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+487597,Universal Technical Institute-Southern California,CA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+126784,Colorado School of Trades,CO,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+127158,Emily Griffith Technical College,CO,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+128179,Intellitec College-Colorado Springs,CO,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+128188,Intellitec College-Grand Junction,CO,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+126951,Lincoln College of Technology-Denver,CO,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+128151,Pickens Technical College,CO,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+126605,Spartan College of Aeronautics and Technology,CO,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+126915,Technical College of the Rockies,CO,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+129181,Lincoln Technical Institute-East Windsor,CT,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+129923,Lincoln Technical Institute-New Britain,CT,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+445911,Lincoln Technical Institute-Shelton,CT,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+420370,Career Technical Institute,DC,2025,6,"Private for-profit, 2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+500397,Aguilas International Technical Institute,FL,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2024, 2025",No
+485342,Aparicio-Levy Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+132374,Atlantic Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+447847,Aviator College of Aeronautical Science and Technology,FL,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+137856,Big Bend Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+447874,CDA Technical Institute,FL,2022,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022",Yes
+431558,Cape Coral Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+132976,Charlotte Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+461306,D A Dorsey Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+457378,Emerald Coast Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+369419,Erwin Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+137023,First Coast Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+461245,Flagler Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college; Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+133997,Florida Career College-Miami,FL,2024,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024",Yes
+138284,Florida Panhandle Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+134112,Florida Technical College,FL,2020,3,"Private for-profit, 4-year or above",,Name: technical college,"2019, 2020",Yes
+135267,Fort Myers Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+485351,Fred D. Learey Technical College,FL,2019,7,"Public, less-than-2-year",,Name: technical college,2019,No
+459329,Fred K Marchman Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+490090,Gadsden Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college; Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+134291,George Stone Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+134307,George T Baker Aviation Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+367875,H W Brewster Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+457387,Immokalee Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+483869,InterAmerican Technical Institute,FL,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+487311,Jones Technical Institute,FL,2025,5,"Private not-for-profit, 2-year",9,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135179,Lake Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+495864,Liberty Junior College - DBA Liberty Technical Institute,FL,2020,99,Sector unknown,,Name: technical institute,2020,No
+135294,Lindsey Hopkins Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135276,Lively Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+133155,Lorenzo Walker Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135407,Manatee Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419226,Marion Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135647,Miami Lakes Educational Center and Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+494214,Miami Lakes Educational Center and Technical College -,FL,2019,99,Sector unknown,,Name: technical college,2019,No
+495590,NUC University - Florida Technical College - Cutler Bay,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+495563,NUC University - Florida Technical College - Deland,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+495572,NUC University - Florida Technical College - Kissimmee,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+495554,NUC University - Florida Technical College - Lakeland,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+495749,NUC University - Florida Technical College - Orlando,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+495581,NUC University - Florida Technical College - Pembroke Pines,FL,2020,99,Sector unknown,,Name: technical college,2020,No
+497019,NUC University - Florida Technical College - Tampa,FL,2021,99,Sector unknown,-2,Name: technical college,2021,No
+434469,New Professions Technical Institute,FL,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+132675,North Florida Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+433068,Okaloosa Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+136303,Orange Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+501497,Orange Technical College-Avalon Campus,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,2025,No
+138488,Orange Technical College-East Campus,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135735,Orange Technical College-South Campus,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+138372,Orange Technical College-West Campus,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+427991,Osceola Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+136491,Pinellas Technical College-Clearwater,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+137087,Pinellas Technical College-St. Petersburg,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+136659,Radford M Locklin Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+136765,Ridge Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+137713,Riveroak Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+136826,Robert Morgan Educational Center and Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+476966,SAE Institute of Technology-Miami,FL,2022,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022",No
+137245,Sheridan Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+488891,South Dade Technical College-South Dade Skills Center Campus,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+443252,South Florida Institute of Technology,FL,2025,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+366553,Southern Technical College,FL,2025,6,"Private for-profit, 2-year",26,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+446552,Southern Technical College,FL,2025,6,"Private for-profit, 2-year",7,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+137120,Suncoast Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+137865,Tom P. Haney Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical center; Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+135522,Traviss Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+501220,Traviss Technical College - ATCFO,FL,2025,99,Sector unknown,-2,Name: technical college,2025,No
+486150,Treasure Coast Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+369400,Universal Technical Institute-Orlando,FL,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+498030,Universal Technical Institute-South Florida Miramar,FL,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2022, 2023, 2024, 2025",Yes
+138479,William T McFatter Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+491783,Wilton Simpson Technical College,FL,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2022, 2023, 2024, 2025",Yes
+138497,Withlacoochee Technical College,FL,2025,4,"Public, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+138655,Interactive College of Technology-Chamblee,GA,2025,6,"Private for-profit, 2-year",8,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+442435,Interactive College of Technology-Gainesville,GA,2025,6,"Private for-profit, 2-year",13,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+138664,Interactive College of Technology-Morrow,GA,2025,6,"Private for-profit, 2-year",13,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+500096,Lincoln College of Technology-East Point,GA,2025,6,"Private for-profit, 2-year",-2,Name: college of technology,"2024, 2025",Yes
+434159,Lincoln College of Technology-Marietta,GA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+476948,SAE Institute of Technology-Atlanta,GA,2022,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022",No
+153427,Orion Technical College,IA,2025,3,"Private for-profit, 4-year or above",28,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+492023,Americare Technical School,IL,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical school,"2022, 2023, 2024, 2025",No
+446084,CALC Institute of Technology,IL,2025,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+486345,HVAC Technical Institute,IL,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+146700,Lincoln College of Technology-Melrose Park,IL,2025,6,"Private for-profit, 2-year",7,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+458265,Midwest Technical Institute-East Peoria,IL,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021",Yes
+437556,Midwest Technical Institute-Illinois,IL,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+469638,Midwest Technical Institute-Moline,IL,2021,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021",Yes
+147396,Morrison Institute of Technology,IL,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+485139,SAE Institute of Technology-Chicago,IL,2022,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022",No
+445054,Toyota Technological Institute at Chicago,IL,2025,2,"Private not-for-profit, 4-year or above",28,Name: technological institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+366191,Universal Technical Institute of Illinois Inc,IL,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+151661,Lincoln College of Technology-Indianapolis,IN,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+155423,Washburn Institute of Technology,KS,2025,4,"Public, 2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+156134,Wichita Technical Institute,KS,2025,9,"Private for-profit, less-than-2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+367103,Interactive College of Technology-Newport,KY,2025,6,"Private for-profit, 2-year",-2,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+488217,Medical Career & Technical College,KY,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+158343,Baton Rouge School of Computers,LA,2022,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022",No
+500838,Goodwill Technical College,LA,2025,8,"Private not-for-profit, less-than-2-year",-2,Name: technical college,2025,No
+159197,ITI Technical College,LA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+440271,Remington College-Baton Rouge Campus,LA,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+242413,Richport Technical College,LA,2022,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022",Yes
+160913,South Central Louisiana Technical College,LA,2019,4,"Public, 2-year",,Name: technical college,2019,No
+488138,Williams Technical College,LA,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2023, 2024, 2025",No
+164535,Assabet Valley Regional Technical School,MA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+243799,Blue Hills Regional Technical School,MA,2024,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024",No
+419095,Charles H McCann Technical School,MA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+165608,Diman Regional Technical Institute,MA,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+382416,Greater Lowell Technical School,MA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+165556,Lincoln Technical Institute-Somerville,MA,2023,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023",No
+167871,Southeastern Technical Institute,MA,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+447403,Universal Technical Institute of Massachusetts Inc,MA,2020,6,"Private for-profit, 2-year",,Name: technical institute,"2019, 2020",Yes
+373711,Upper Cape Cod Regional Technical School,MA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+163028,Lincoln College of Technology-Columbia,MD,2025,6,"Private for-profit, 2-year",7,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+461962,Northeast Technical Institute,ME,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+161208,The Landing School,ME,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+172422,Michigan Career and Technical Institute,MI,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+168573,Northwestern Technological Institute,MI,2025,9,"Private for-profit, less-than-2-year",-2,Name: technological institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+169655,Universal Technical Institute-Canton,MI,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology; Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+175227,Dunwoody College of Technology,MN,2025,2,"Private not-for-profit, 4-year or above",23,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+500272,Northland Community and Technical College - Aerospace,MN,2024,99,Sector unknown,-2,Name: technical college,2024,No
+461573,American Trade School,MO,2025,9,"Private for-profit, less-than-2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+417716,Applied Tech,MO,2025,7,"Public, less-than-2-year",-2,Name: applied technology,"2019, 2020, 2021, 2022, 2023",No
+490203,Bolivar Technical College,MO,2025,2,"Private not-for-profit, 4-year or above",10,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+176798,Cape Girardeau Career and Technology Center,MO,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+481049,Carthage R9 School District-Carthage Technical Center,MO,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+260336,Clinton Technical School,MO,2024,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024",No
+409120,Franklin Technology Center Adult Education,MO,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+176983,Grand River Technical School,MO,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+178466,Hillyard Technical Center,MO,2020,4,"Public, 2-year",,Name: technical center,"2019, 2020",No
+417628,Kirksville Area Technical Center,MO,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+177870,Lake Career and Technical Center,MO,2022,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022",Yes
+177931,Lex La-Ray Technical Center,MO,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+482097,Midwest Technical Institute-Missouri,MO,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+417673,Nevada Regional Technical Center,MO,2019,7,"Public, less-than-2-year",,Name: technical center,2019,No
+261773,Pike-Lincoln Technical Center,MO,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+178891,Ranken Technical College,MO,2025,2,"Private not-for-profit, 4-year or above",14,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+179052,Rolla Technical Institute/Center,MO,2022,4,"Public, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022",Yes
+179238,Sikeston Career and Technology Center,MO,2019,7,"Public, less-than-2-year",,Name: technology center,2019,No
+417637,Southern Missouri Technical Institute,MO,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2023, 2024, 2025",Yes
+441487,Texas County Technical College,MO,2025,6,"Private for-profit, 2-year",10,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+447023,Delta Technical College-Mississippi,MS,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+475459,Midwest Technical Institute-Ridgeland,MS,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021",Yes
+442611,Universal Technical Institute-Mooresville,NC,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+200554,United Tribes Technical College,ND,2025,2,"Private not-for-profit, 4-year or above",33,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+496645,Burlington County Institute of Technology-Adult Education,NJ,2025,7,"Public, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2021, 2022, 2023, 2024, 2025",Yes
+184056,Lincoln Technical Institute-Iselin,NJ,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+420343,Lincoln Technical Institute-Mahwah,NJ,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+374574,Lincoln Technical Institute-Moorestown,NJ,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+442073,Lincoln Technical Institute-Paramus,NJ,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+184427,Lincoln Technical Institute-South Plainfield,NJ,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+185396,Lincoln Technical Institute-Union,NJ,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+437723,New Community Career & Technical Institute,NJ,2025,8,"Private not-for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+431716,Ocean County Vocational-Technical School,NJ,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+417831,Union County Vocational Technical School,NJ,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+493132,Universal Technical Institute-Bloomfield,NJ,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+449676,Ace Institute of Technology,NY,2025,6,"Private for-profit, 2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+188890,Apex Technical School,NY,2025,8,"Private not-for-profit, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+190655,CUNY New York City College of Technology,NY,2025,1,"Public, 4-year or above",22,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+191959,Island Drafting and Technical Institute,NY,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+449320,Lincoln Technical Institute-Whitestone,NY,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+440262,New York Automotive and Diesel Institute,NY,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+459462,SAE Institute of Technology-New York,NY,2022,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022",No
+196006,SUNY College of Technology at Alfred,NY,2025,1,"Public, 4-year or above",23,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+196015,SUNY College of Technology at Canton,NY,2025,1,"Public, 4-year or above",22,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+196024,SUNY College of Technology at Delhi,NY,2025,1,"Public, 4-year or above",22,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+201803,Choffin Career  and Technical Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+203614,Collins Career Technical Center,OH,2025,4,"Public, 2-year",-2,Name: technical center,"2023, 2024, 2025",Yes
+202152,Columbiana County Career and Technical Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+200590,ETI Technical College of Niles,OH,2025,6,"Private for-profit, 2-year",7,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+204884,East Ohio College,OH,2025,6,"Private for-profit, 2-year",10,Name: college of technology,"2019, 2020",No
+407461,Eastland-Fairfield Career and Technical Schools,OH,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+407489,Mahoning County Career and Technical Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+204158,Miami Valley Career Technology Center,OH,2024,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024",Yes
+451477,MyComputerCareer at Columbus,OH,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+204608,Ohio Technical College,OH,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+407522,Pioneer Career and Technology Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+407577,Scioto County Career Technical Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+249566,TDDS Technical Institute,OH,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021",Yes
+407595,Trumbull Career & Technical Center,OH,2023,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023",Yes
+421717,Vanguard-Sentinel Adult Career and Technology Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418278,Vantage Career Center,OH,2025,7,"Public, less-than-2-year",-2,Name: technical center,2019,Yes
+365213,Autry Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+207272,Beauty Technical College Inc,OK,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021",No
+364946,Caddo Kiowa Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+365374,Canadian Valley Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+246017,Central Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+375656,Chisholm Trail Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418348,Eastern Oklahoma County Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+245999,Francis Tuttle Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+375683,Gordon Cooper Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+364548,Great Plains Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+428019,Green Country Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+208053,High Plains Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+499592,"Indian Capital Technology Center, School District Number 4 - Coweta",OK,2023,99,Sector unknown,-2,Name: technology center,2023,No
+418296,Indian Capital Technology Center-Muskogee,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+375726,Kiamichi Technology Center-McAlester,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+365480,Meridian Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+363165,Metro Technology Centers,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418320,Mid-America Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+431017,Mid-Del Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+248606,Moore Norman Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+461087,Northeast Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2020, 2021, 2022, 2023, 2024, 2025",Yes
+420459,Northeast Technology Center-Afton,OK,2020,7,"Public, less-than-2-year",,Name: technology center,"2019, 2020",Yes
+456560,Northeast Technology Center-Claremore,OK,2020,7,"Public, less-than-2-year",,Name: technology center,"2019, 2020",Yes
+432074,Northeast Technology Center-Kansas,OK,2020,7,"Public, less-than-2-year",,Name: technology center,"2019, 2020",Yes
+418339,Northeast Technology Center-Pryor,OK,2020,7,"Public, less-than-2-year",,Name: technology center,"2019, 2020",Yes
+366623,Northwest Technology Center-Alva,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+407601,Northwest Technology Center-Fairview,OK,2019,7,"Public, less-than-2-year",,Name: technology center,2019,No
+469629,Oklahoma Technical College,OK,2025,5,"Private not-for-profit, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+364627,Pioneer Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+206905,Pontotoc Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+250993,Red River Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+365198,Southern Oklahoma Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+368364,Southwest Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+488934,Tulsa Technology Center,OK,2025,4,"Public, 2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+207962,Tulsa Welding School-Tulsa,OK,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+418357,Wes Watkins Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418302,Western Technology Center,OK,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+441663,Institute of Technology,OR,2025,6,"Private for-profit, 2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+481021,Berks Career & Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+246071,Career Technology Center of Lackawanna County,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+369668,Central Pennsylvania Institute of Science and Technology,PA,2025,4,"Public, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+430908,Clearfield County Career and Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+212975,Commonwealth Technical Institute,PA,2025,5,"Private not-for-profit, 2-year",8,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419484,Crawford County Career and Technical Center Practical Nursing Program,PA,2024,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024",No
+211909,Dean Institute of Technology,PA,2019,6,"Private for-profit, 2-year",,Institute of technology at a 2-year or shorter sector,2019,No
+430971,Delaware County Technical School-Practical Nursing Program,PA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+212434,Erie Institute of Technology Inc,PA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+496876,Fayette County Career & Technical Institute -,PA,2021,99,Sector unknown,-2,Name: technical institute,2021,No
+248624,Fayette County Career & Technical Institute Practical Nursing Program,PA,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419332,Forbes Road Career and Technology Center,PA,2022,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022",Yes
+248633,Franklin County Career and Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+213181,Great Lakes Institute of Technology,PA,2025,6,"Private for-profit, 2-year",10,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+383367,Greater Altoona Career & Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418454,Greater Johnstown Career and Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+260363,Greene County Career and Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+440217,Huntingdon County Career and Technology Center,PA,2022,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022",No
+418560,Indiana County Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418445,Jefferson County DuBois Area Vocational Technical School,PA,2025,7,"Public, less-than-2-year",-2,Name: technical school,2025,Yes
+418533,Lancaster County Career and Technology Center,PA,2025,4,"Public, 2-year",13,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+215992,Laurel Technical Institute,PA,2025,6,"Private for-profit, 2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+250027,Laurel Technical Institute,PA,2025,6,"Private for-profit, 2-year",7,Name: technical institute,2025,Yes
+408729,Laurel Technical Institute,PA,2023,6,"Private for-profit, 2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023",No
+418542,Lebanon County Area Vocational Technical School,PA,2024,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024",Yes
+498739,Lehigh Career & Technical Institute,PA,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2023, 2024, 2025",Yes
+418515,Lenape Technical School Practical Nursing Program,PA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+213570,Lincoln Technical Institute-Allentown,PA,2025,9,"Private for-profit, less-than-2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+213589,Lincoln Technical Institute-Levittown,PA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+213534,Miller-Motte College-Berks Technical Institute,PA,2025,6,"Private for-profit, 2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+456579,Miller-Motte College-Berks Technical Institute-Allentown,PA,2025,6,"Private for-profit, 2-year",7,Name: technical institute,"2024, 2025",Yes
+438221,Miller-Motte College-Berks Technical Institute-Lewisburg,PA,2025,6,"Private for-profit, 2-year",7,Name: technical institute,"2024, 2025",Yes
+214528,Orleans Technical College,PA,2025,5,"Private not-for-profit, 2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+214892,Penn Commercial Business/Technical School,PA,2025,6,"Private for-profit, 2-year",9,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+214944,Pennco Tech-Bristol,PA,2025,9,"Private for-profit, less-than-2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+366252,Pennsylvania College of Technology,PA,2025,1,"Public, 4-year or above",23,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+215381,Pittsburgh Institute of Aeronautics,PA,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+215415,Pittsburgh Technical College,PA,2024,2,"Private not-for-profit, 4-year or above",14,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024",Yes
+215682,Rosedale Technical College,PA,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+215886,Schuylkill Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+457943,Somerset County Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+441672,Susquehanna County Career and Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+448859,Triangle Tech Inc-Bethlehem,PA,2024,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024",Yes
+445799,Universal Technical Institute of Pennsylvania Inc,PA,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418524,Venango County Area Vocational Technical School,PA,2025,7,"Public, less-than-2-year",-2,Name: technical school,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+368407,Western Area Career & Technology Center,PA,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+365383,Wilkes-Barre Area Career and Technical Center Practical Nursing,PA,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+423397,Advantage Technical College,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+493071,Advantage Technical College,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+495970,Advantage Technical College-Aguadilla,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2020, 2021, 2022, 2023, 2024, 2025",Yes
+461625,American Technical Institute,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+418782,Automeca Technical College-Aguadilla,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419703,Automeca Technical College-Bayamon,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419712,Automeca Technical College-Caguas,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+419721,Automeca Technical College-Ponce,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+444264,Cambridge Technical Institute,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+441706,Caribbean Forensic and Technical College,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+494834,Educational Technical College,PR,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021",Yes
+240985,Educational Technical College-Recinto de Bayamon,PR,2021,6,"Private for-profit, 2-year",10,Name: technical college,"2019, 2020, 2021",No
+448707,Educational Technical College-Recinto de Coamo,PR,2021,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021",Yes
+444671,Industrial Technical College,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+242750,International Technical College,PR,2022,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022",Yes
+486576,PPG Technical College,PR,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+433101,Lincoln Technical Institute-Lincoln,RI,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+444468,Lawrenceburg Technical College,TN,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical college,"2023, 2024, 2025",No
+221148,Nashville Auto-Diesel College,TN,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+418889,North Central Institute,TN,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+219596,TCAT Athens,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023",Yes
+221430,Tennessee College of Applied Technology Crump,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+248925,Tennessee College of Applied Technology Nashville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221236,Tennessee College of Applied Technology Northwest,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+219921,Tennessee College of Applied Technology-Covington,TN,2023,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023",Yes
+219994,Tennessee College of Applied Technology-Dickson,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220127,Tennessee College of Applied Technology-Elizabethton,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220251,Tennessee College of Applied Technology-Harriman,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220279,Tennessee College of Applied Technology-Hartsville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221281,Tennessee College of Applied Technology-Henry/Carroll,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220321,Tennessee College of Applied Technology-Hohenwald,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220394,Tennessee College of Applied Technology-Jacksboro,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+499060,Tennessee College of Applied Technology-Jacksboro -,TN,2023,99,Sector unknown,-2,"Name: college of applied technology, applied technology",2023,No
+221616,Tennessee College of Applied Technology-Jackson,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221625,Tennessee College of Applied Technology-Knoxville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220640,Tennessee College of Applied Technology-Livingston,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220756,Tennessee College of Applied Technology-McKenzie,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221607,Tennessee College of Applied Technology-McMinnville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+220853,Tennessee College of Applied Technology-Memphis,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221050,Tennessee College of Applied Technology-Morristown,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221102,Tennessee College of Applied Technology-Murfreesboro,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221582,Tennessee College of Applied Technology-Oneida-Huntsville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221333,Tennessee College of Applied Technology-Pulaski,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221388,Tennessee College of Applied Technology-Ripley,TN,2023,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023",Yes
+221494,Tennessee College of Applied Technology-Shelbyville,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221591,Tennessee College of Applied Technology-Upper Cumberland,TN,2025,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+221634,Tennessee College of Applied Technology-Whiteville,TN,2021,4,"Public, 2-year",-2,"Name: college of applied technology, applied technology","2019, 2020, 2021",Yes
+222105,William R Moore College of Technology,TN,2025,5,"Private not-for-profit, 2-year",9,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+480888,CyberTex Institute of Technology,TX,2025,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+367361,Interactive College of Technology,TX,2025,6,"Private for-profit, 2-year",13,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+440776,Interactive College of Technology,TX,2025,6,"Private for-profit, 2-year",8,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+443696,Interactive College of Technology,TX,2025,6,"Private for-profit, 2-year",13,Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+443146,Jay's Technical Institute,TX,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+226277,Lincoln College of Technology-Grand Prairie,TX,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: college of technology,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+501619,Lincoln College of Technology-Houston,TX,2025,9,"Private for-profit, less-than-2-year",-2,Name: college of technology,2025,Yes
+377218,School of Automotive Machinists & Technology,TX,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+456922,South Texas Vocational Technical Institute-Brownsville,TX,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+228200,South Texas Vocational Technical Institute-Weslaco,TX,2025,9,"Private for-profit, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+447591,The College of Health Care Professions-Southwest Houston,TX,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+229416,Universal Technical Institute of Texas Inc.,TX,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+460543,Universal Technical Institute-Dallas Fort Worth,TX,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11); Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+497286,Universal Technical Institute-West Texas,TX,2025,6,"Private for-profit, 2-year",-2,Name: technical institute,"2021, 2022, 2023, 2024, 2025",Yes
+224660,Western Technical College,TX,2025,3,"Private for-profit, 4-year or above",14,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+224679,Western Technical College,TX,2025,3,"Private for-profit, 4-year or above",14,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+230010,Bridgerland Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+230162,Davis Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+451583,Dixie Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+448248,Mountainland Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+230490,Ogden-Weber Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+449816,Southwest Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+475723,Tooele Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+230676,Uintah Basin Technical College,UT,2025,7,"Public, less-than-2-year",-2,Name: technical college,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+231411,Advanced Technology Institute,VA,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes
+231165,Vermont State University,VT,2025,1,"Public, 4-year or above",23,Name: technical college,"2019, 2020, 2021, 2022",Yes
+235088,Divers Institute of Technology,WA,2025,9,"Private for-profit, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+458140,Northwest School of Wooden Boat Building,WA,2025,5,"Private not-for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",No
+236212,Perry Technical Institute,WA,2025,5,"Private not-for-profit, 2-year",7,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+498386,Boone Career and Technical Center,WV,2025,4,"Public, 2-year",-2,Name: technical center,"2022, 2023, 2024, 2025",Yes
+237242,Cabell County Career Technology Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technology center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+413176,Fayette Institute of Technology,WV,2025,7,"Public, less-than-2-year",-2,Institute of technology at a 2-year or shorter sector,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+237844,Fred W Eberle Technical Center,WV,2025,4,"Public, 2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+237473,James Rumsey Technical Institute,WV,2025,7,"Public, less-than-2-year",-2,Name: technical institute,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+368647,Mineral County Vocational Technical Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+419420,Putnam Career and Technical Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+237491,Ralph R Willis Career and Technical Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",Yes
+486406,Randolph Technical Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+364575,Roane-Jackson Technical Center,WV,2025,4,"Public, 2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+419031,United Technical Center,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2019, 2020, 2021, 2022, 2023, 2024, 2025",No
+238096,Wood County Technical Center-Practical Nursing,WV,2025,7,"Public, less-than-2-year",-2,Name: technical center,"2023, 2024, 2025",No
+240718,WyoTech,WY,2025,6,"Private for-profit, 2-year",11,Carnegie special-focus technical (C21BASIC 11),"2021, 2022, 2023, 2024, 2025",Yes

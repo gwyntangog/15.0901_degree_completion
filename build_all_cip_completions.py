@@ -398,7 +398,8 @@ def write_workbook(master, path, population):
 
 def write_tables(school, master, summary, folder, population):
     os.makedirs(folder, exist_ok=True)
-    school.drop(columns=["Sector_Code"]).to_csv(
+    drop_cols = [col for col in ["Sector_Code"] if col in school.columns]
+    school.drop(columns=drop_cols).to_csv(
         os.path.join(folder, "school_level_2019-2025.csv"), index=False
     )
     master.to_csv(os.path.join(folder, "master_all_CIPs_2019-2025.csv"), index=False)
@@ -703,13 +704,9 @@ def main():
         os.path.join(FIGURE_ROOT, "all"),
         "All institutions, including universities",
     )
-    community_colleges = school[school["Sector_Code"] == PUBLIC_2YEAR].copy()
-    publish(
-        community_colleges,
-        cip_titles,
-        os.path.join(DATA_OUT, "community_colleges"),
-        os.path.join(FIGURE_ROOT, "community_colleges"),
-        "Community colleges only: public 2-year institutions (IPEDS sector 4)",
+    print(
+        "Community college and tech-school figures are built by build_school_type_figures.py.",
+        flush=True,
     )
     print("\nDone.", flush=True)
 
